@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rotkiw00
 - 👀 I’m interested in sports, films, trips and of course programming 😅
 - 📚 I have learned fundamentals of C# and some technologies such as LINQ, WinForms, .NET MVC
-- 🌱 I'm currently learning Python, some SQL and improving my knowledge of .NET enviroment.
-- 💞️ It would be nice experience to collaborate with somebody who has got similar interest to me. 
+- 🌱 I'm currently learning Python, some SQL and improving my knowledge of .NET enviroment. 
 - 📫 How to reach me: LinkedIn and Facebook.
 
 <!---
